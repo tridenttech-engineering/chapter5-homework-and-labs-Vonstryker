@@ -26,7 +26,7 @@ int main()
 
 	//add shipping
 	if (amtOwed >= 100.0)
-		amotOwed += SHIP_CHG1;
+		amtOwed += SHIP_CHG1;
 	else
 		amtOwed += SHIP_CHG2;
 	//end if
